@@ -8,4 +8,4 @@ Il suffit de créer une base de données, y importer le fichier "bdd.sql" et mod
 NOTES
 -------------------
 
-Si jamais ce dossier sert à quelqu'un pour son BTS, ça me ferait qu'il ou elle me le fasse savoir par mail @ benjamin[at]coriou[dot]com
+Si jamais ce dossier sert à quelqu'un pour son BTS, ça me ferait plaisir qu'il ou elle me le fasse savoir par mail @ benjamin[at]coriou[dot]com
